@@ -6,10 +6,11 @@ Collection of disk images for QEMU
 ## Links:
 
 ###### [QEMU](https://www.qemu.org)
-* https://www.qemu.org
-* https://www.qemu.org/download/
-* https://qemu.weilnetz.de/w64/
-* https://en.wikibooks.org/wiki/QEMU
+* QEMU: https://www.qemu.org
+* Download QEMU: https://www.qemu.org/download/
+* QEMU Binaries for Windows: https://qemu.weilnetz.de
+* QEMU Binaries for Windows 64 bits: https://qemu.weilnetz.de/w64/
+* WikiBooks QEMU: https://en.wikibooks.org/wiki/QEMU
 
 ###### Disk images tools for windows
 * https://www.osforensics.com/tools/mount-disk-images.html
