@@ -25,4 +25,3 @@ Collection of disk images for QEMU
 ###### ReactOS
 * https://www.reactos.org/
 * https://www.reactos.org/download/
-* https://www.reactos.org/fr/download/
